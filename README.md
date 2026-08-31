@@ -62,8 +62,8 @@ border - 패딩과 콘텐츠를 둘러싸는 테두리입니다.<br>
 margin - 테두리 바깥쪽 영역을 비웁니다. 여백은 투명합니다.<br>
 color : 텍스트의 색상을 설정<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;색상 이름 - (예: "빨간색")<br>
-&nbsp;16진수 값 - (예: "#ff0000")<br>
-&nbsp;RGB 값 - (예: "rgb(255,0,0)")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16진수 값 - (예: "#ff0000")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RGB 값 - (예: "rgb(255,0,0)")<br>
 text-align : 텍스트를 가로 정렬로 설정 ex) center, right, left<br>
 text-decoration : 텍스트에 장식선이 나타나는 모양을 제어하는 데 사용됩니다. ex) underline, none, overline<br>
 font-style : 텍스트의 글꼴 스타일을 지정<br>
