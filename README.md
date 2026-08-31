@@ -42,7 +42,7 @@ progress : 어느 작업의 완료 정도를 나타내며, 주로 진행 표시�
 textarea : 멀티라인 일반 텍스트 편집 컨트롤을 나타냅니다.<br>
 CSS 선택자 : 선택자는 규칙 내부의 CSS 속성 값을 적용하기 위해 어떤 HTML 요소를 선택해야 하는지 브라우저에 알려주는 요소 및 기타 용어의 패턴입니다. 선택자에 의해 선택되는 요소를 선택자의 대상이라고 합니다. ex) h1{} .sec{} #sec{}....<br>
 background-color : 배경색 변경 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;유효한 색상 이름 - 예: "빨간색",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;유효한 색상 이름 - 예: "빨간색",<br>
 &nbsp;16진수 값 예:"#ff0000}<br>
 &nbsp;RGB값 - 예: "rgb(255,0,0)"<br>
 background-image : 배경이미지 삽입 ex) url(bgimg.jpg);<br>
