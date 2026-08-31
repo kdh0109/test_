@@ -1,3 +1,4 @@
+<h1>HTML TAG</h1>
 html : HTML 문서의 루트(최상위 요소)를 나타내므로 root 요소라고도 합니다. 다른 모든 요소는 이 요소의 자손이어야 합니다. <br>
 head : 제목, 스크립트 및 스타일 시트와 같은 문서에 대한 기계 판독 가능 정보(메타데이터)를 포함합니다.<br>
 link : 현재 문서와 외부 리소스 간의 관계를 지정합니다. 이 요소는 CSS에 연결하는 데 가장 일반적으로 사용되지만 무엇보다도 사이트 아이콘("Favicon" 스타일 아이콘과 홈 화면용 아이콘 및 모바일 장치의 앱)을 설정하는 데도 사용됩니다.<br>
@@ -40,7 +41,7 @@ option : select, optgroup, datalist 요소의 항목을 정의합니다. 그러�
 output : 웹 사이트나 앱에서 계산이나 사용자 행동의 결과를 삽입할 수 있는 컨테이너 요소입니다.<br>
 progress : 어느 작업의 완료 정도를 나타내며, 주로 진행 표시줄의 형태를 띕니다.<br>
 textarea : 멀티라인 일반 텍스트 편집 컨트롤을 나타냅니다.<br>
-<text-align><h1>CSS STYLE</h1>
+<h1>CSS STYLE</h1>
 CSS 선택자 : 선택자는 규칙 내부의 CSS 속성 값을 적용하기 위해 어떤 HTML 요소를 선택해야 하는지 브라우저에 알려주는 요소 및 기타 용어의 패턴입니다. 선택자에 의해 선택되는 요소를 선택자의 대상이라고 합니다. ex) h1{} .sec{} #sec{}....<br>
 background-color : 배경색 변경 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;유효한 색상 이름 - 예: "빨간색",<br>
