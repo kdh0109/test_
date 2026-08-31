@@ -61,7 +61,7 @@ padding - 콘텐츠 주변에 여백을 만듭니다. 패딩은 투명합니다.
 border - 패딩과 콘텐츠를 둘러싸는 테두리입니다.<br>
 margin - 테두리 바깥쪽 영역을 비웁니다. 여백은 투명합니다.<br>
 color : 텍스트의 색상을 설정<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;색상 이름 - (예: "빨간색")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;색상 이름 - (예: "빨간색")<br>
 &nbsp;16진수 값 - (예: "#ff0000")<br>
 &nbsp;RGB 값 - (예: "rgb(255,0,0)")<br>
 text-align : 텍스트를 가로 정렬로 설정 ex) center, right, left<br>
